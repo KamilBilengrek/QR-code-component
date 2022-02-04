@@ -48,4 +48,4 @@ In future projects I would like to focus more on using flexbox and also I would 
 
 ## Author
 
-- Frontend Mentor - Kamil (https://www.frontendmentor.io/profile/Kammilos)
+- Frontend Mentor - [Kamil](https://www.frontendmentor.io/profile/Kammilos)
