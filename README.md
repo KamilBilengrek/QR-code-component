@@ -8,17 +8,17 @@ I picked one of the simplest ones so I could get a basic idea of how does it loo
 
 ### Links
 
-- Challenge URL: [Here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- Solution URL: [Here](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-URQKF1V9u)
-- Live Site URL: [Here](https://kamilbilengrek.github.io/QR-code-component/)
+* Challenge URL: [Here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+* Solution URL: [Here](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-URQKF1V9u)
+* Live Site URL: [Here](https://kamilbilengrek.github.io/QR-code-component/)
 
 ## My process
 
 ### Built with
 
-- HTML5
-- CSS custom properties
-- Flexbox
+* HTML5
+* CSS custom properties including:
+    * Flexbox
 
 ### What I learned
 
@@ -43,9 +43,9 @@ In future projects I would like to focus more on using flexbox and also I would 
 
 ## Author
 
-- LinkedIn - [Kamil Bilengrek](https://www.linkedin.com/in/kamil-bilengrek-612a82238/)
-- GitHub - [KamilBilengrek](https://github.com/KamilBilengrek)
-- Frontend Mentor - [Kamil](https://www.frontendmentor.io/profile/Kammilos)
+* LinkedIn - [Kamil Bilengrek](https://www.linkedin.com/in/kamil-bilengrek-612a82238/)
+* GitHub - [KamilBilengrek](https://github.com/KamilBilengrek)
+* Frontend Mentor - [Kamil](https://www.frontendmentor.io/profile/Kammilos)
 
 ## Contribution
 
