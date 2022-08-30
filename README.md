@@ -53,4 +53,5 @@ Contribution, issues and feature requests are welcome!
 ## License
 
 Copyright (c) 2022 Kamil Bilengrek
+
 This project is [MIT](www.google.com) licensed
