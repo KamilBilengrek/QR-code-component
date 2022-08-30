@@ -45,6 +45,7 @@ In future projects I would like to focus more on using flexbox and also I would 
 
 - Frontend Mentor - [Kamil](https://www.frontendmentor.io/profile/Kammilos)
 - LinkedIn - [Kamil Bilengrek](https://www.linkedin.com/in/kamil-bilengrek-612a82238/)
+- GitHub - [KamilBilengrek](https://github.com/KamilBilengrek)
 
 ## Contribution
 
