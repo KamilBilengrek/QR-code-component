@@ -2,8 +2,8 @@
 
 ## Overview
 
-Hello!
-This is my first project from the [Frontend Mentor](https://www.frontendmentor.io).
+Hello!  
+This is my first project from the [Frontend Mentor](https://www.frontendmentor.io).  
 I picked one of the simplest ones so I could get a basic idea of how does it look like.
 
 ### Links
@@ -43,9 +43,9 @@ In future projects I would like to focus more on using flexbox and also I would 
 
 ## Author
 
-- Frontend Mentor - [Kamil](https://www.frontendmentor.io/profile/Kammilos)
 - LinkedIn - [Kamil Bilengrek](https://www.linkedin.com/in/kamil-bilengrek-612a82238/)
 - GitHub - [KamilBilengrek](https://github.com/KamilBilengrek)
+- Frontend Mentor - [Kamil](https://www.frontendmentor.io/profile/Kammilos)
 
 ## Contribution
 
