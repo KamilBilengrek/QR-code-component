@@ -10,7 +10,7 @@ I picked one of the simplest ones so I could get a basic idea of how does it loo
 
 - Challenge URL: [Here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 - Solution URL: [Here](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-URQKF1V9u)
-- Live Site URL: [Here](https://kammilos.github.io/QR-code-component/)
+- Live Site URL: [Here](https://kamilbilengrek.github.io/QR-code-component/)
 
 ## My process
 
